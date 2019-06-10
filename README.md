@@ -1,3 +1,3 @@
-# Obits-Network
+# Orbits-Network
 
-*Obits-Network Deploy Repository*
+*Orbits-Network Deploy Repository*
